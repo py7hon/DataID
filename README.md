@@ -10,4 +10,6 @@ Buat direktori/folder baru bernama `priv` pada direktori/folder yang sama atau g
 
 ```php grab.php```
 
+![Spoiler DataID](spoiler.png)
+
 Based on cURL and looping
